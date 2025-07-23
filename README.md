@@ -1,6 +1,3 @@
-# strong-cover-1612
-
-
 <h1 align="center">TripBook.com</h1>
 
 <h3 align="center">TripBook is a Next.JS project</h3>
